@@ -10,3 +10,4 @@ Coding exercises from Microsoft Learn's [Take your first steps with Rust](https:
 4. [Data types](data-types)
 5. [Structs and enums](structs-enums)
 6. [Functions](functions)
+7. [Collections](collections)
