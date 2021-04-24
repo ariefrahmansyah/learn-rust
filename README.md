@@ -11,3 +11,4 @@ Coding exercises from Microsoft Learn's [Take your first steps with Rust](https:
 5. [Structs and enums](structs-enums)
 6. [Functions](functions)
 7. [Collections](collections)
+8. [Control flow](control-flow)
