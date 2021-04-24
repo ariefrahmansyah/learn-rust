@@ -22,6 +22,9 @@ Notes and coding exercises from Microsoft Learn's [Take your first steps with Ru
    - [Ownership](ownership)
    - [Borrowing](borrowing)
    - [Lifetimes](lifetimes)
-5. **Generic types**
+5. **Generic types and traits**
+   - [Generic](generic)
+   - [Traits](traits)
+   - [Derive trait](derive-trait)
 6. **Modules, packages, crates**
 7. **Automated tests**
