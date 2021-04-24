@@ -15,6 +15,9 @@ Notes and coding exercises from Microsoft Learn's [Take your first steps with Ru
    - [Collections](collections)
    - [Control flow](control-flow)
 3. **Handle errors**
+   - [Panic](panic)
+   - [Option](option)
+   - [Result](result)
 4. **Memory management**
 5. **Generic types**
 6. **Modules, packages, crates**
